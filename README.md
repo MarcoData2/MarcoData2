@@ -38,14 +38,23 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - Interactive filters, drill-through, bookmarks and more
 - Professional design & data storytelling
 
-<br>
+---
 
-### Full Portfolio Visualization (browse the pages directly here)
+## 📊 Portfolio Preview (Image Version)
+Below you can view all pages of the portfolio directly as images:
 
+![Page 1](portfolio_page_1.png)
+![Page 2](portfolio_page_2.png)
+![Page 3](portfolio_page_3.png)
+![Page 4](portfolio_page_4.png)
+![Page 5](portfolio_page_5.png)
+
+---
+
+## 📄 Full PDF Version
 [![Open Portfolio PDF](https://img.shields.io/badge/View-Portfolio%20PDF-lightgrey?style=for-the-badge)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
 
-
-<br>
+---
 
 ### Contact
 **Email**: marcoad160@gmail.com  
@@ -55,7 +64,9 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 Feel free to contact me if you want to view the interactive `.pbix` file or discuss projects in SQL, Python, Report Builder, AWS, GCP, and more!
 
 ---
+
 Built with passion and lots of DAX by **Marco Data** — 2025
+
 
 
 
