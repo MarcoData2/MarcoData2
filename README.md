@@ -8,7 +8,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 ### Key Business Insights
 - **Total Sales**: **$1,456,309** from **5,654 orders**
 - **Average Order Value**: **1,456** 
-- **Top Category**: **Sports** → **$318K** (22%)
+- **Top Category**: **Sports** → **318K** (22%)
 - **Highest-Spending Segment**: Customers **46+ years old**
 - **Top 10 customers** contribute **over $47K** in revenue
 - **Peak sales day**: **Friday**
