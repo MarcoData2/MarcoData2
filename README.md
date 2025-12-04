@@ -1,6 +1,5 @@
 # Data Analyst & Business Analyst Portfolio
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Made with DAX](https://img.shields.io/badge/DAX-Expert-blue?style=for-the-badge)](https://learn.microsoft.com/en-us/dax/)
 
 ## E-commerce Sales Dashboard – $1.46M Full Analysis
 Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across **5,654 orders** from a multi-category e-commerce business (2023 – 2025).
