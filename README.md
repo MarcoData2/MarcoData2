@@ -1,6 +1,9 @@
 # Data Analyst & Business Analyst Portfolio
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-mx/microsoft-365/excel)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+[![Unix](https://img.shields.io/badge/Unix-3C3C3C?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ## E-commerce Sales Dashboard – $1.46M Full Analysis
 Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across **5,654 orders** from a multi-category e-commerce business (2023 – 2025).
@@ -61,7 +64,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 ## Full PDF Version (7 Pages)
 [![Open Portfolio PDF](https://img.shields.io/badge/View_Portfolio_PDF_7_Pages-00d4aa?style=for-the-badge)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
 ---
-### Contact
+## Contact
 **Email**: marcoad160@gmail.com
 **Phone**: (+52) 55 6400-3686
 **LinkedIn**: [linkedin.com/in/marcodata19](https://www.linkedin.com/in/marcodata19)
