@@ -1,9 +1,9 @@
 # Data Analyst & Business Analyst Portfolio
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-mx/microsoft-365/excel)
 
 ## E-commerce Sales Dashboard – $1.46M Full Analysis
 Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across **5,654 orders** from a multi-category e-commerce business (2023 – 2025).
-
 ### Key Business Insights
 - **Total Sales**: **$1,456,309** from **5,654 orders**
 - **Average Order Value**: **$257.56**
@@ -22,37 +22,32 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
   - **Top 3 Male Categories**: Electronics, Books, Clothing
   - **Top 3 Female Categories**: Sports, Home & Garden, Clothing
 - **Best month ever**: March 2023 (~$78K)
-
 ### Dashboard Features & Visualizations – 7 Pages
-| Page | Section                                | Visualization Type                          |
+| Page | Section | Visualization Type |
 |------|----------------------------------------|---------------------------------------------|
-| 1    | Executive Summary                      | KPI Cards + Monthly Trend Line              |
-| 2    | Sales by Product Category & Geography  | Horizontal Bar + Sunburst Chart             |
-| 3    | Customer Analysis                      | Age Groups Column + Top 10 Customers Table  |
-| 4    | Sales by Day & Payment Method          | Line Chart + Column + Detailed Matrix       |
-| 5    | Top 3 Categories Deep Dive             | Large KPI Cards + Horizontal Bar Chart      |
-| 6    | Sales by Category & Gender             | 100% Stacked Column Chart + Custom Banners  |
-| 7    | Monthly Sales Evolution (2023-2025)    | Chronological Horizontal Bar Chart          |
-
+| 1 | Executive Summary | KPI Cards + Monthly Trend Line |
+| 2 | Sales by Product Category & Geography | Horizontal Bar + Sunburst Chart |
+| 3 | Customer Analysis | Age Groups Column + Top 10 Customers Table |
+| 4 | Sales by Day & Payment Method | Line Chart + Column + Detailed Matrix |
+| 5 | Top 3 Categories Deep Dive | Large KPI Cards + Horizontal Bar Chart |
+| 6 | Sales by Category & Gender | 100% Stacked Column Chart + Custom Banners |
+| 7 | Monthly Sales Evolution (2023-2025) | Chronological Horizontal Bar Chart |
 ### Features (Pages 5-7)
 - Top 3 categories with exact values (319K / 295K / 289K)
 - Gender segmentation across all categories (100% stacked columns)
 - Custom Top 3 Male & Top 3 Female category banners (purple & blue)
 - Full monthly sales history (2023 → 2025) with chronological ordering
 - Conditional formatting and dynamic titles using advanced DAX
-
 ### Repository Contents
-- [Portfolio.pdf](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true) → Full dashboard export 
+- [Portfolio.pdf](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true) → Full dashboard export
 - `DASHBOARD.pbix` → Interactive Power BI file
 - `synthetic_ecommerce_data.csv` → Synthetic dataset used
-
 ### Tools & Skills Demonstrated
 - Power BI Desktop (Data Modeling & Advanced Design)
 - Power Query (ETL & Data Cleaning)
 - Advanced DAX Measures (ranking, segmentation, conditional formatting)
 - Interactive filters, drill-through, bookmarks, custom tooltips
 - Professional design & data storytelling
-
 ---
 ## Portfolio Preview (7 Pages – Updated December 2025)
 ![Page 1](portfolio_page_1.png)
@@ -62,18 +57,14 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 ![Page 5](portfolio_page_5.png)
 ![Page 6](portfolio_page_6.png)
 ![Page 7](portfolio_page_7.png)
-
 ---
 ## Full PDF Version (7 Pages)
 [![Open Portfolio PDF](https://img.shields.io/badge/View_Portfolio_PDF_7_Pages-00d4aa?style=for-the-badge)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
-
 ---
 ### Contact
-**Email**: marcoad160@gmail.com  
-**Phone**: (+52) 55 6400-3686  
-**LinkedIn**: [linkedin.com/in/marcodata19](https://www.linkedin.com/in/marcodata19)  
-
+**Email**: marcoad160@gmail.com
+**Phone**: (+52) 55 6400-3686
+**LinkedIn**: [linkedin.com/in/marcodata19](https://www.linkedin.com/in/marcodata19)
 Feel free to contact me if you want to view the interactive `.pbix` file or discuss projects in SQL, Python, Report Builder, AWS, GCP, and more!
-
 ---
 Built with passion and lots of DAX by **Marco Data** — 2025
