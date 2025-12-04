@@ -1,9 +1,9 @@
 # Data Analyst & Business Analyst Portfolio
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-mx/microsoft-365/excel)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
-[![Unix](https://img.shields.io/badge/Unix-3C3C3C?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Unix](https://img.shields.io/badge/Unix-00A572?style=for-the-badge&logo=linux&logoColor=white)](https://linuxmint.com)
 
 <br>
 
@@ -82,7 +82,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 **Phone**: (+52) 55 6400-3686  
 **LinkedIn**: [linkedin.com/in/marcodata19](https://www.linkedin.com/in/marcodata19)  
 
-Feel free to contact me if you want to view the interactive `.pbix` file or discuss projects in SQL Server, Python, Report Builder, AWS, AWS, GCP, and more!
+Feel free to contact me if you want to view the interactive `.pbix` file or discuss projects in SQL Server, Python, Unix/bash scripting, Report Builder, AWS, GCP, and more!
 
 <br>
 
