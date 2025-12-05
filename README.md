@@ -11,6 +11,17 @@
 ## E-commerce Sales Dashboard – $1.46M Full Analysis
 Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across **5,654 orders** from a multi-category e-commerce business (2023 – 2025).
 
+## Portfolio Preview (7 Pages – Updated December 2025)
+![Page 1](portfolio_page_1.png)
+![Page 2](portfolio_page_2.png)
+![Page 3](portfolio_page_3.png)
+![Page 4](portfolio_page_4.png)
+![Page 5](portfolio_page_5.png)
+![Page 6](portfolio_page_6.png)
+![Page 7](portfolio_page_7.png)
+
+---
+
 ### Key Business Insights
 - **Total Sales**: **$1,456,309** from **5,654 orders**
 - **Average Order Value**: **$257.56**
@@ -61,18 +72,6 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - Professional design & data storytelling
 
 ---
-
-## Portfolio Preview (7 Pages – Updated December 2025)
-![Page 1](portfolio_page_1.png)
-![Page 2](portfolio_page_2.png)
-![Page 3](portfolio_page_3.png)
-![Page 4](portfolio_page_4.png)
-![Page 5](portfolio_page_5.png)
-![Page 6](portfolio_page_6.png)
-![Page 7](portfolio_page_7.png)
-
----
-
 ## Full PDF Version (7 Pages)
 [![Open Portfolio PDF](https://img.shields.io/badge/View_Portfolio_PDF_7_Pages-12856a?style=for-the-badge&logoColor=white)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
 
