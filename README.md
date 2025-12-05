@@ -2,7 +2,7 @@
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-mx/microsoft-365/excel)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-2F2F2F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
-[![MySQL](https://img.shields.io/badge/MySQL-3E3E3E?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 [![Unix](https://img.shields.io/badge/Unix-00A572?style=for-the-badge&logo=linux&logoColor=white)](https://linuxmint.com)
 
@@ -74,7 +74,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 ---
 
 ## Full PDF Version (7 Pages)
-[![Open Portfolio PDF](https://img.shields.io/badge/View_Portfolio_PDF_7_Pages-2d2d2d?style=for-the-badge&logoColor=white)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
+[![Open Portfolio PDF](https://img.shields.io/badge/View_Portfolio_PDF_7_Pages-12856a?style=for-the-badge&logoColor=white)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
 
 <br>
 
