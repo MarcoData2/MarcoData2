@@ -11,7 +11,7 @@
 ## E-commerce Sales Dashboard – $1.46M Full Analysis
 Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across **5,654 orders** from a multi-category e-commerce business (2023 – 2025).
 
-## Portfolio Preview (7 Pages – Updated December 2025)
+## Portfolio Preview (8 Pages – Updated December 2025)
 ![Page 1](portfolio_page_1.png)
 ![Page 2](portfolio_page_2.png)
 ![Page 3](portfolio_page_3.png)
@@ -41,8 +41,9 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
   - **Top 3 Male Categories**: Electronics, Books, Clothing
   - **Top 3 Female Categories**: Sports, Home & Garden, Clothing
 - **Best month ever**: March 2023 (~$78K)
+- **Top 5 Location Total Sales**: West Michael, New Jennifer, North Emily, North James & Port Robert
 
-### Dashboard Features & Visualizations – 7 Pages
+### Dashboard Features & Visualizations – 8 Pages
 | Page | Section                              | Visualization Type                          |
 |------|----------------------------------------|---------------------------------------------|
 | 1    | Executive Summary                      | KPI Cards + Monthly Trend Line              |
@@ -52,12 +53,14 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 | 5    | Top 3 Categories Deep Dive             | Large KPI Cards + Horizontal Bar Chart      |
 | 6    | Sales by Category & Gender             | 100% Stacked Column Chart + Custom Banners  |
 | 7    | Monthly Sales Evolution (2023-2025)    | Chronological Horizontal Bar Chart          |
+| 8    | Top 5 Location Total Sales             | Clustered Bar Chart                         |
 
-### Features (Pages 5-7)
+### Features (Pages 5-8)
 - Top 3 categories with exact values (319K / 295K / 289K)
 - Gender segmentation across all categories (100% stacked columns)
 - Custom Top 3 Male & Top 3 Female category banners (purple & blue)
 - Full monthly sales history (2023 → 2025) with chronological ordering
+- Top 5 Location Total Sales
 - Conditional formatting and dynamic titles using advanced DAX
 
 ### Repository Contents
@@ -73,7 +76,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - Professional design & data storytelling
 
 ---
-## Full PDF Version (7 Pages)
+## Full PDF Version (8 Pages)
 [![Open Portfolio PDF](https://img.shields.io/badge/View_Portfolio_PDF_7_Pages-12856a?style=for-the-badge&logoColor=white)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
 
 <br>
