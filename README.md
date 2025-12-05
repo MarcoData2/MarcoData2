@@ -76,8 +76,8 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - Professional design & data storytelling
 
 ---
-## Full PDF Version (8 Pages)
-[![Open Portfolio PDF](https://img.shields.io/badge/View_Portfolio_PDF_7_Pages-12856a?style=for-the-badge&logoColor=white)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
+## Full PDF Version (9 Pages)
+[![Open Portfolio PDF](https://img.shields.io/badge/View_Portfolio_PDF_9_Pages-12856a?style=for-the-badge&logoColor=white)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
 
 <br>
 
