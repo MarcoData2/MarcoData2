@@ -66,7 +66,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 ### Tools & Skills Demonstrated
 - Power BI (Data Modeling, Advanced DAX, Dashboard Design)  
 - Power Query (simulated enterprise ETL pipelines)  
-- SQL Server & cloud data warehouse concepts (AWS Redshift pattern)  
+- SQL Server & cloud data warehouse concepts (AWS Redshift)  
 - Excel Advanced  
 - **Python** for data processing and automation when required  
 - Unix environment experience  
