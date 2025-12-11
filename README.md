@@ -19,7 +19,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 ![Page 6](portfolio_page_6.png)
 ![Page 7](portfolio_page_7.png)
 ![Page 8](portfolio_page_8.png)
-![Page 9](portfolio_page_9.png)
+
 
 ---
 
