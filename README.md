@@ -10,7 +10,7 @@
 ## E-commerce Sales Dashboard – Full $1.46M Revenue Analysis
 Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales across **5,654 orders** from a multi-category e-commerce business (2023 – 2025).
 
-## Portfolio Preview (8 pages – Updated December 2025)
+## Portfolio Preview (9 pages – Updated December 2025)
 ![Page 1](portfolio_page_1.png)
 ![Page 2](portfolio_page_2.png)
 ![Page 3](portfolio_page_3.png)
@@ -19,7 +19,10 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 ![Page 6](portfolio_page_6.png)
 ![Page 7](portfolio_page_7.png)
 ![Page 8](portfolio_page_8.png)
+![Page 9](portfolio_page_9.png)
+
 ---
+
 ### Key Business Insights
 - **Total Revenue**: **$1,456,309** | 5,654 orders
 - **Average Order Value**: **$1,456**  
@@ -30,8 +33,10 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 - Peak sales day: **Friday** | Preferred payment: **Credit Card** ($398K)
 - Women outspend men in Sports | Men dominate Electronics
 - Best month ever: March 2023 (~$78K)
+- **Performance Analysis**: Products segmented into High/Low Performance based on sales vs category average
+- **Performance Metrics**: High Performance Revenue vs Low Performance Revenue with distribution analysis
 
-### Dashboard Features (8 interactive pages)
+### Dashboard Features (9 interactive pages)
 | Page | Focus Area                          | Visualization Type                          |
 |------|-------------------------------------|---------------------------------------------|
 | 1    | Executive Summary                   | KPI Cards + Monthly Trend Line              |
@@ -42,12 +47,16 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 | 6    | Sales by Category & Gender          | 100% Stacked Columns + Custom Banners       |
 | 7    | Monthly Evolution 2023–2025         | Chronological Horizontal Bar                |
 | 8    | Top 5 Locations by Revenue          | Clustered Bar Chart                         |
+| 9    | Product Performance Analytics       | Performance KPI Cards + Ranking Table + Donut Chart + Comparative Analysis |
 
 **Advanced Features**  
-- Complex DAX measures (dynamic ranking, conditional segmentation, dynamic titles & formatting)  
+- Complex DAX measures (dynamic ranking, conditional segmentation, performance classification, dynamic titles & formatting)  
 - Simulated real-world ETL process extracting data from **SQL Server** and **AWS Redshift**-like structures using Power Query  
 - Interactive filters, drill-through, bookmarks, custom tooltips  
-- Professional design focused on executive-level data storytelling
+- Professional design focused on executive-level data storytelling  
+- Performance analytics with product segmentation and ranking algorithms
+- Product performance classification (High/Low) with category-based benchmarking
+- Automated product ranking and revenue segmentation by performance tier
 
 ### Repository Contents
 - [Portfolio.pdf](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true) → Full dashboard export (9 pages)  
@@ -61,23 +70,29 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 - Excel Advanced  
 - **Python** for data processing and automation when required  
 - Unix environment experience  
-- Business-oriented data visualization & storytelling
+- Business-oriented data visualization & storytelling  
+- Performance analytics and product segmentation methodologies  
+- KPI development and comparative analysis frameworks
 
 ---
+
 ## Full PDF Version (9 pages)
 [![Download Portfolio PDF](https://img.shields.io/badge/Download_Portfolio_PDF_9_pages-12856a?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true)
 
 <br>
 
 ### Looking for a Data Analyst who delivers actionable business insights?
-I’m actively open to **Data Analyst, Business Intelligence Analyst, or BI & Analytics roles** at data-driven companies.
+I'm actively open to **Data Analyst, Business Intelligence Analyst, or BI & Analytics roles** at data-driven companies.
 
-Let’s connect and discuss how I can help your team turn raw data into strategic advantages.
+Let's connect and discuss how I can help your team turn raw data into strategic advantages.
 
 **Contact**  
 📧 **Email**: [marcoad160@gmail.com](mailto:marcoad160@gmail.com)  
+
 📱 **Phone / WhatsApp**: (+52) 55 6400-3686  
-💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcodata19)  
+
+💼 **LinkedIn**: https://www.linkedin.com/in/marcodata19 
+
 🐙 **GitHub**: https://github.com/MarcoData2  
 
 *Based in Mexico City | Open to relocation abroad (relocation expenses covered) | Available for remote, hybrid or onsite roles worldwide*
