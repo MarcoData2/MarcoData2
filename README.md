@@ -10,7 +10,7 @@
 ## E-commerce Sales Dashboard – Full $1.46M Revenue Analysis
 Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales across **5,654 orders** from a multi-category e-commerce business (2023 – 2025).
 
-## Portfolio Preview (9 pages – Updated December 10th 2025)
+## Portfolio Preview (9 pages – Updated December 11th 2025)
 ![Page 1](portfolio_page_1.png)
 ![Page 2](portfolio_page_2.png)
 ![Page 3](portfolio_page_3.png)
@@ -19,7 +19,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 ![Page 6](portfolio_page_6.png)
 ![Page 7](portfolio_page_7.png)
 ![Page 8](portfolio_page_8.png)
-
+![Page 9](portfolio_page_9.png)
 
 ---
 
